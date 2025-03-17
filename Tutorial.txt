@@ -1,0 +1,9 @@
+Tutorial MongoDB
+
+Passo 1: Ter Instalado MongoDB e configurado o Compass
+Passo 2 : Iniciar um  novo projeto node (npm init)
+passo 3 : Criar a estruturas de pastas(sistemas)
+passo 4: instalar o mongoose (npm i mongoose)
+passo 5: Criar o Modulo de Conexão
+        Atenção! Validar as Conexões (Somente conectar se 
+        Nenhuma outra Conexão estiver Aberta)
