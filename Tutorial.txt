@@ -7,3 +7,23 @@ passo 4: instalar o mongoose (npm i mongoose)
 passo 5: Criar o Modulo de Conexão
         Atenção! Validar as Conexões (Somente conectar se 
         Nenhuma outra Conexão estiver Aberta)
+
+passo 6: importar no main os metodos conectar e desconectar
+passo 7: Criar o modelo de dados (schema) - clientes.js
+passo 8: importar no main o modelo (Schema)
+passo 9:  criar os modelos (Funcões) Crud
+PASSO 10: Estabelecer a conexão -  executar os metodos
+
+--------------------------------------------------------------------
+CRUD - mongoose
+
+CRUD Create
+
+save()
+
+CRUD Read
+
+find()
+
+CRUD update 
+findBYIdUpdate()
